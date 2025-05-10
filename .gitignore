@@ -1,0 +1,15 @@
+
+# Ignore build files
+**/target/
+**/*.rs.bk
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.log
+*.tmp
+.DS_Store
+
+# Optional: if you want to ignore all .lock files (for libraries)
+**/Cargo.lock
